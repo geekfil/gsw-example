@@ -6,7 +6,7 @@ var guide_screen_config = {
       "desc": null,
       "prev_key": null,
       "next_key": 2,
-      "img_src": "https://326825.selcdn.ru/guide-screen/Снимок%20экрана%202020-08-10%20в%2012.45.12.png",
+      "img_src": "/guide-screen-widget/1.png",
       "links": [
         {
           "title": "Подробнее..",
@@ -70,7 +70,7 @@ var guide_screen_config = {
       "desc": null,
       "prev_key": 1,
       "next_key": 3,
-      "img_src": "https://326825.selcdn.ru/guide-screen/Снимок%20экрана%202020-08-10%20в%2012.45.26.png",
+      "img_src": "/guide-screen-widget/2.png",
       "links": [
         {
           "title": "Далее",
@@ -89,7 +89,7 @@ var guide_screen_config = {
       "desc": null,
       "prev_key": 2,
       "next_key": 1,
-      "img_src": "https://326825.selcdn.ru/guide-screen/Снимок%20экрана%202020-08-10%20в%2012.46.04.png",
+      "img_src": "/guide-screen-widget/3.png",
       "links": [
         {
           "title": "Назад",
@@ -108,7 +108,7 @@ var guide_screen_config = {
       "desc": null,
       "prev_key": 1,
       "next_key": 6,
-      "img_src": "https://326825.selcdn.ru/guide-screen/Снимок%20экрана%202020-08-10%20в%2012.46.21.png",
+      "img_src": "/guide-screen-widget/4.png",
       "links": [
         {
           "title": "Далее",
@@ -127,7 +127,7 @@ var guide_screen_config = {
       "desc": null,
       "prev_key": 1,
       "next_key": 6,
-      "img_src": "https://326825.selcdn.ru/guide-screen/Снимок%20экрана%202020-08-10%20в%2013.12.00.png",
+      "img_src": "/guide-screen-widget/5.png",
       "links": [
         {
           "title": "Назад",
@@ -146,7 +146,7 @@ var guide_screen_config = {
       "desc": "",
       "prev_key": 1,
       "next_key": 13,
-      "img_src": "https://326825.selcdn.ru/guide-screen/Снимок%20экрана%202020-08-10%20в%2013.10.01.png",
+      "img_src": "/guide-screen-widget/6.png",
       "links": [
         {
           "title": "Далее",
@@ -165,7 +165,7 @@ var guide_screen_config = {
       "desc": null,
       "prev_key": 1,
       "next_key": 12,
-      "img_src": "https://326825.selcdn.ru/guide-screen/Снимок%20экрана%202020-08-10%20в%2012.46.38.png",
+      "img_src": "/guide-screen-widget/7.png",
       "links": [
         {
           "title": "Далее",
@@ -184,7 +184,7 @@ var guide_screen_config = {
       "desc": null,
       "prev_key": 2,
       "next_key": 2,
-      "img_src": "https://326825.selcdn.ru/guide-screen/Снимок%20экрана%202020-08-10%20в%2012.46.48.png",
+      "img_src": "/guide-screen-widget/8.png",
       "links": [
         {
           "title": "Назад",
@@ -203,7 +203,7 @@ var guide_screen_config = {
       "desc": null,
       "prev_key": 4,
       "next_key": 10,
-      "img_src": "https://326825.selcdn.ru/guide-screen/Снимок%20экрана%202020-08-10%20в%2013.23.15.png",
+      "img_src": "/guide-screen-widget/9.png",
       "links": [
         {
           "title": "Далее",
@@ -222,7 +222,7 @@ var guide_screen_config = {
       "desc": null,
       "prev_key": 9,
       "next_key": 11,
-      "img_src": "https://326825.selcdn.ru/guide-screen/Снимок%20экрана%202020-08-10%20в%2013.23.24.png",
+      "img_src": "/guide-screen-widget/10.png",
       "links": [
         {
           "title": "Далее",
@@ -241,7 +241,7 @@ var guide_screen_config = {
       "desc": null,
       "prev_key": 10,
       "next_key": 1,
-      "img_src": "https://326825.selcdn.ru/guide-screen/Снимок%20экрана%202020-08-10%20в%2013.23.35.png",
+      "img_src": "/guide-screen-widget/11.png",
       "links": [
         {
           "title": "Назад",
@@ -260,7 +260,7 @@ var guide_screen_config = {
       "desc": null,
       "prev_key": 1,
       "next_key": 1,
-      "img_src": "https://326825.selcdn.ru/guide-screen/Снимок%20экрана%202020-08-10%20в%2013.24.17.png",
+      "img_src": "/guide-screen-widget/12.png",
       "links": [
         {
           "title": "Назад",
@@ -279,7 +279,7 @@ var guide_screen_config = {
       "desc": null,
       "prev_key": 6,
       "next_key": 14,
-      "img_src": "https://326825.selcdn.ru/guide-screen/Снимок%20экрана%202020-08-10%20в%2013.23.57.png",
+      "img_src": "/guide-screen-widget/13.png",
       "links": [
         {
           "title": "Далее",
@@ -298,7 +298,7 @@ var guide_screen_config = {
       "desc": null,
       "prev_key": 13,
       "next_key": 1,
-      "img_src": "https://326825.selcdn.ru/guide-screen/Снимок%20экрана%202020-08-10%20в%2013.24.07.png",
+      "img_src": "/guide-screen-widget/14.png",
       "links": [
         {
           "title": "Назад",
